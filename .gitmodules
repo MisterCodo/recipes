@@ -1,0 +1,3 @@
+[submodule "themes/cookbook"]
+	path = themes/cookbook
+	url = https://github.com/MisterCodo/hugo-cookbook.git
