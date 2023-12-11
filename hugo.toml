@@ -6,7 +6,7 @@ sectionPagesMenu = "main"
 
 [params.front]
 defaultAuthor = ""
-defaultImage = "images/defaultImage.jpg"
+defaultImage = "images/defaultImage.png"
 defaultImageHeight = 512
 defaultImageWidth = 512
 

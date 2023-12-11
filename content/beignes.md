@@ -1,6 +1,6 @@
 ---
 title: "Beignes"
-recipe_image: /images/defaultImage.jpg
+recipe_image: /images/defaultImage.png
 image_width: 512
 image_height: 512
 date: 2023-12-10T10:38:23-05:00
