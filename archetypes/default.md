@@ -15,16 +15,15 @@ calories: #in kcal, can be BLANK
 
 ## Ingrédients
 
-- First Ingredient
-- Second Ingredient [^1]
+- Premier
+- Second [^1]
 
 ## Instructions
 
-1. Step One
-   1. Sub Step One
-2. Step Two
-3. Step Three
+1. Première étape
+   1. Première sous étape
+2. Seconde étape
 
 ## Notes
 
-[^1]: Footnote 1
+[^1]: Détails

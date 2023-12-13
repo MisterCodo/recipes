@@ -18,18 +18,6 @@ fileName = "images/logo.webp"
 height = 50
 width = 200
 
-[menu]
-[[menu.main]]
-name = "Maison"
-pre = "fas fa-home"
-url = "/"
-weight = 1
-[[menu.main]]
-name = "Catégories"
-pre = "fas fa-tags"
-url = "/tags/"
-weight = 2
-
 # Print output just creates a special route for a print view
 [outputs]
 home = ["HTML", "RSS", "JSON"]
