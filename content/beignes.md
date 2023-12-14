@@ -1,8 +1,8 @@
 ---
 title: "Beignes de Mme Morissette"
-recipe_image: /images/defaultImage.png
+recipe_image: /images/beignes.png
 image_width: 512
-image_height: 512
+image_height: 384
 date: 2023-12-10T10:38:23-05:00
 tags: ["Dessert"]
 servings: 48
