@@ -1,6 +1,6 @@
 ---
 title: "Antipasto (Déchêts)"
-recipe_image: images/defaultImage.png
+recipe_image: images/dechets.png
 image_width: 512
 image_height: 384
 date: 2023-11-10T20:35:28-05:00
