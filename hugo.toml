@@ -14,9 +14,9 @@ defaultImageWidth = 512
 # The default height/width are the recommended bulma size (112W X 28H), best to get your logo as close as possible to that
 # The site will SCALE your image, but will not force a stretch, so you may need to stretch it in external tool before using.
 [params.logo]
-fileName = "images/logo.webp"
+fileName = "images/logo.png"
 height = 50
-width = 200
+width = 180
 
 # Print output just creates a special route for a print view
 [outputs]

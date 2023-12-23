@@ -1,0 +1,11 @@
+<nav class="navbar is-primary" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand pt-3 pl-2">
+        <a class="navbar-brand">
+            <a href="{{ .Site.BaseURL }}">
+                {{ with .Site.Params.logo }}
+                    <img src="{{ .filename | urlize | relURL }}" width="{{ .width }}" height="{{ .height }}">
+                {{ end }}
+            </a>
+        </a>
+    </div>
+</nav>
