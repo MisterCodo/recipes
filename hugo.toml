@@ -21,7 +21,7 @@ width = 180
 # Print output just creates a special route for a print view
 [outputs]
 home = ["HTML", "RSS", "JSON"]
-page = ["HTML", "PRINT"]
+page = ["HTML"]
 
 # The settings for the print format
 [outputFormats]

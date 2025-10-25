@@ -9,7 +9,7 @@ servings: 13 pots de 2 tasses
 prep_time: 30 #in minutes, can be BLANK
 cook: true # If cooking leave true, if cooling set to false
 cook_increment: minutes # set to minutes or hours
-cook_time: 90 #in minutes or hours, can be BLANK
+cook_time: 105 #in minutes or hours, can be BLANK
 calories: #in kcal, can be BLANK
 ---
 
