@@ -35,3 +35,7 @@ isHTML = true
 noUgly = true
 permalinkable = true
 path = "print"
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
