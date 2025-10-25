@@ -5,7 +5,7 @@ image_width: 512
 image_height: 384
 date: 2024-05-12T20:35:28-05:00
 tags: ["Conserves"]
-servings: 9 tasses
+servings: 12 tasses
 prep_time: 30 #in minutes, can be BLANK
 cook: true # If cooking leave true, if cooling set to false
 cook_increment: minutes # set to minutes or hours
